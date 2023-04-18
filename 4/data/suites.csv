@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Apr 18 08:40:19 GMT 2023","Tue Apr 18 08:40:54 GMT 2023","34747","","PaginationTest","","PaginationTest","getNumberFromTable","getNumberFromTable()",""
