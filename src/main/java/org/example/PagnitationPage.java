@@ -6,7 +6,7 @@ import org.openqa.selenium.WebElement;
 
 import java.util.List;
 
-public class Page {
+public class PagnitationPage {
 
     private static final String URL = "http://demo.seleniumeasy.com/table-pagination-demo.html";
 
@@ -16,7 +16,7 @@ public class Page {
 
     public WebDriver driver;
 
-    public Page(WebDriver driver) {
+    public PagnitationPage(WebDriver driver) {
         this.driver = driver;
     }
 
